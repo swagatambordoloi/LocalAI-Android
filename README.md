@@ -19,17 +19,17 @@ Local AI is a privacy-first, on-device artificial intelligence assistant for And
 * Hardware-Aware: Designed to manage the lifecycle of machine learning engines, ensuring memory is handled efficiently within the Android ViewModel scope.
 
 # Getting Started
-1. Download the App
+# 1. Download the App
 You can download the latest production build from Releases Page.
 
-2. Prepare Your Models
+# 2. Prepare Your Models
 To use the AI capabilities, you will need to provide your own LiteRT-compatible (.litertlm) model files.
 
 1.Download your preferred quantized models (e.g., Llama 3.2, Moondream 2, Gemma 4).
 
 2.Use the "Import Model" button within the app to load the .litertlm files from your device storage.
 
-Architecture
+# Architecture
 This project is built using a clean, layered architecture:
 
 * UI Layer: Jetpack Compose with StateFlow for reactive, real-time UI updates.
@@ -38,7 +38,7 @@ This project is built using a clean, layered architecture:
 
 * Data Layer: Room handles persistent storage for chat sessions and metadata.
 
-Built With
+# Built With
 * Language: Kotlin
 
 * Framework: Jetpack Compose
