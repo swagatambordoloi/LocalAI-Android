@@ -20,12 +20,12 @@ Local AI is a privacy-first, on-device artificial intelligence assistant for And
 
 # Getting Started
 # 1. Download the App
-You can download the latest production build from Releases Page.
+You can download the latest production build from [Releases](https://github.com/swagatambordoloi/LocalAI-Android/releases) Page.
 
 # 2. Prepare Your Models
 To use the AI capabilities, you will need to provide your own LiteRT-compatible (.litertlm) model files.
 
-1.Download your preferred quantized models (e.g., Llama 3.2, Moondream 2, Gemma 4).
+1.Download your preferred quantized models (e.g., Llama 3.2, Moondream 2, [Gemma 4](https://huggingface.co/litert-community/gemma-4-E2B-it-litert-lm/tree/main)).
 
 2.Use the "Import Model" button within the app to load the .litertlm files from your device storage.
 
