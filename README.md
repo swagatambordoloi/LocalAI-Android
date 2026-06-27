@@ -1,4 +1,4 @@
-#Local AI Android
+# Local AI Android
 Local AI is a privacy-first, on-device artificial intelligence assistant for Android. Built with Jetpack Compose and LiteRT, this application allows users to run local language and vision models directly on their mobile devices, ensuring complete data privacy and offline capability.
 
 Key Features
