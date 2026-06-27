@@ -3,6 +3,7 @@ Local AI is a privacy-first, on-device artificial intelligence assistant for And
 
 <p align="center">
   <img src="screenshots/chat_screen.png" width="300" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="screenshots/dark_mode.png" width="300" />
 </p>
 
