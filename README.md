@@ -9,7 +9,7 @@ Local AI is a privacy-first, on-device artificial intelligence assistant for And
 
 
 
-Key Features
+# Key Features
 * Offline Inference: Run Llama 3.2, Qwen 2.5 Coder, Gemma and Moondream models locally using LiteRT.
 
 * Persistent Storage: Uses Room Database to store chat history, ensuring your conversations are available even after the app is closed.
@@ -18,7 +18,7 @@ Key Features
 
 * Hardware-Aware: Designed to manage the lifecycle of machine learning engines, ensuring memory is handled efficiently within the Android ViewModel scope.
 
-Getting Started
+# Getting Started
 1. Download the App
 You can download the latest production build from Releases Page.
 
